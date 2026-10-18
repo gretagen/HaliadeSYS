@@ -13,7 +13,7 @@ Current version : unstable 1.0 (lots of issues, preview)
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a845ebd6-8445-4486-adb5-d05146d3d7f1" />
 
 # About this distribution
-Haliade OS is a strictly universal imperative-declarative Linux distribution that is designed to be fast, easy to get used to, and is systemd-free, it is worked on by a single developer, along with some contributors.
+HaliadeSYS (AKA : Haliade OS) is a strictly universal imperative-declarative Linux distribution that is designed to be fast, easy to get used to, and is systemd-free, it is worked on by a single developer, along with some contributors.
 
 Some features of Heliade OS include :
 
