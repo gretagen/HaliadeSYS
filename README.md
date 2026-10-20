@@ -1,4 +1,4 @@
-# Haliade OS 
+# HaliadeSYS
 
 Documentation : [documentation.md](https://github.com/gretagen/Zerene-OS/blob/main/documentation.md)
 
