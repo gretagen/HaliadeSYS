@@ -1,6 +1,6 @@
 # HaliadeSYS
 
-Documentation : [documentation.md](https://github.com/gretagen/Zerene-OS/blob/main/documentation.md)
+Wiki : https://github.com/gretagen/HaliadeSYS/wiki/
 
 Questions and Answers : [QnA.md](https://github.com/gretagen/Zerene-OS/blob/main/QnA.md)
 
