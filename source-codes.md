@@ -34,6 +34,6 @@
   Kernel Generator : https://github.com/gretagen/genkernel
   
   Capture feature : https://github.com/gretagen/Capture
+  
+  Bootstrapper : https://github.com/gretagen/zstrappa
 </div>
-
-Bootstrapper : https://github.com/gretagen/zstrappa
