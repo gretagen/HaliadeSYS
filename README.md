@@ -2,8 +2,6 @@
 
 Wiki : https://github.com/gretagen/HaliadeSYS/wiki/
 
-Questions and Answers : [QnA.md](https://github.com/gretagen/Zerene-OS/blob/main/QnA.md)
-
 Discord of the community : https://discord.gg/SyFM6CcHKa
 
 Current version : 1.0 (Savonius) stable
