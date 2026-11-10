@@ -9,7 +9,8 @@ Current version : 1.0 (Savonius) stable
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a845ebd6-8445-4486-adb5-d05146d3d7f1" />
 
 # About this distribution
-HaliadeSYS (AKA : Haliade OS) is a strictly universal imperative-declarative hybrid Linux distribution that is designed to be reproducible, fast to deploy, easy to learn, and performant it is worked on by a single developer, along with some contributors.
+HaliadeSYS (AKA : Haliade OS) is a strictly universal imperative-declarative hybrid Linux distribution that is designed to be reproducible, fast to deploy, easy to learn, and performant.
+It is worked on by a single developer, along with some contributors.
 
 Some features of HaliadeSYS include :
 
