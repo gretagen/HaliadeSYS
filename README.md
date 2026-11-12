@@ -1,10 +1,20 @@
 # HaliadeSYS
 
-Wiki : https://github.com/gretagen/HaliadeSYS/wiki/
+## Wiki / Documentation (because a lot of people miss it!)
 
-Discord of the community : https://discord.gg/SyFM6CcHKa
+- https://github.com/gretagen/HaliadeSYS/wiki/
 
-Current version : 1.0 (Savonius) stable
+## Current Haliade version
+
+- 1.0 (Savonius) stable
+
+## Next major version 
+
+- 2.0 (Enercon)
+
+## Community discord
+
+- https://discord.gg/SyFM6CcHKa
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a845ebd6-8445-4486-adb5-d05146d3d7f1" />
 
