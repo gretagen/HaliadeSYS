@@ -16,7 +16,6 @@
 
 - https://discord.gg/SyFM6CcHKa
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a845ebd6-8445-4486-adb5-d05146d3d7f1" />
 
 # About this distribution
 HaliadeSYS (AKA : Haliade OS) is a strictly universal imperative-declarative hybrid Linux distribution that is designed to be reproducible, fast to deploy, easy to learn, and performant.
@@ -32,5 +31,6 @@ Some features of HaliadeSYS include :
 
 -- Generations (allows you to rollback if your system breaks)
 
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a845ebd6-8445-4486-adb5-d05146d3d7f1" />
 
 
